@@ -1,2 +1,2 @@
 # JLearn
-Java related test 
+Java related test scripts
